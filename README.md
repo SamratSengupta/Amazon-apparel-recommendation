@@ -23,3 +23,7 @@ Each product/item has 19 features in the raw dataset out of these 19 features, w
 5. medium_image_url  ( url of the image )
 6. title (title of the product.)
 7. formatted_price (price of the product)
+
+
+Data and Code can be found in following repository
+https://drive.google.com/open?id=0BwNkduBnePt2VWhCYXhMV3p4dTg
